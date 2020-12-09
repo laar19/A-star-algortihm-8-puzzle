@@ -1,5 +1,5 @@
-# algoritmo-A-estrella-8-puzzle
+# A* (A star) algorithm
 
 <img src="https://img.shields.io/badge/GPL-v3-green"/>
 
-Implementación del algoritmo A* (A estrella) para resolver el clásico juego 8 puzzle
+Implementation of A* (A star) algorithm in order to solve 8 puzzle classic game
